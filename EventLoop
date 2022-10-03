@@ -1,0 +1,4 @@
+Bucle de eventos
+*Proceso que gestiona, de forma asincrona, todos los eventos de tu aplicacion
+*Es un bucle que no se bloquea, por eso es altamente concurrente
+*Ejecucion de varias tareas a la vez
